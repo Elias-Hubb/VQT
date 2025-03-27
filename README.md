@@ -1,11 +1,8 @@
 # VQT
-Code for the paper "Variational quantum thermalizers based on weakly-symmetric nonunitary multi-qubit operations"
-
-## Requirements
-
-The code is written in Python3. It uses pennylane and JAX. 
+Code for the paper "Variational quantum thermalizers based on weakly-symmetric nonunitary multi-qubit operations".
 
 ## Files
+The data and plotting script for every figure is organized in a folder with a corresponding name. 
 
 
 
